@@ -1,1 +1,2 @@
-# SCTEC_testesS3
+# SCTEC Font End
+Exercícios de aula

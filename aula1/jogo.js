@@ -10,8 +10,9 @@ function verificarPalpite (palpite, alvo) {
     return "É maior";
 }
 
-let aleatorio = Math.floor (Math.random()*10);
-//console.log (aleatorio);
+//let aleatorio = Math.floor (Math.random()*10);
+let aleatorio = Math.floor (Math.random() * (10 - 5 + 1) + 5);
+console.log (aleatorio);
 let palpite;
 let cont = 0;
 
